@@ -1,0 +1,16 @@
+on click display a random pokemon on the page
+
+GENERATE THE POKEMON 
+1 have a function that generate a random number from 1 to 1118
+
+2 when we click the button run the function and log the number
+
+3 match it with a pokemon on the api
+
+
+
+DISPLAY POKEMON
+id "get-pokemon" button
+id="pokemon-name" dispay here the pokemon name
+id="pokemon-type" display here the pokemon type
+id="PokemonPic" display here the PokemonPic
