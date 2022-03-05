@@ -1,20 +1,27 @@
 #pokeName{
+    margin-top: 60px;
     display: flex;
     font-size: 60px;
     justify-content: center;
     font-style: italic;
+    color: aliceblue;
 }
 
 #pokeType{
     display: flex;
     font-size: 40px;
     justify-content: center;
+    color: white;
+
 }
 
 #pokedexNo{
     display: flex;
-    font-size: 20px;
+    font-size: 40px;
     justify-content: center;
+    color: white;
+  
+
 }
 
 #pokemonPic{
@@ -22,11 +29,20 @@
 }
 
 #pokeInfo{
-    border: 10px;
+    border-radius: 1rem;
+    background-color: rgb(88, 96, 167);
+    color: white;
 }
 
 #stats-pic-section{
     display: flex;
     justify-content: center;
     border: 15px;
+}
+
+body{
+    background-image: url('bg.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
