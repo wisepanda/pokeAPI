@@ -1,0 +1,32 @@
+#pokeName{
+    display: flex;
+    font-size: 60px;
+    justify-content: center;
+    font-style: italic;
+}
+
+#pokeType{
+    display: flex;
+    font-size: 40px;
+    justify-content: center;
+}
+
+#pokedexNo{
+    display: flex;
+    font-size: 20px;
+    justify-content: center;
+}
+
+#pokemonPic{
+    margin-right: 50px;
+}
+
+#pokeInfo{
+    border: 10px;
+}
+
+#stats-pic-section{
+    display: flex;
+    justify-content: center;
+    border: 15px;
+}

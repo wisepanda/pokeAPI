@@ -1,8 +1,10 @@
 
+
+
 let pokeImage = document.querySelector("#pokemonPic")
-let pokeName = document.querySelector("#pokemon-name")
+let pokeName = document.querySelector("#pokeName")
 let pokedexNo = document.querySelector("#pokedexNo")
-let pokeType = document.querySelector("#pokemon-type")
+let pokeType = document.querySelector("#pokeType")
 let pokeHeight = document.querySelector("#pokeHeight")
 let pokeWeight = document.querySelector("#pokeWeight")
 let pokeHp = document.querySelector("#pokeHp")
