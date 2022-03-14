@@ -29,7 +29,6 @@
     background-color: #3465afe8;
     color:#ffcd05d0;
     border-radius: 1rem;
-    margin-top: 65px;
     margin-bottom: 20px;
 }
 
@@ -42,9 +41,9 @@
 
 #pokeInfo{
     border-radius: 1rem;
-    background-color: #ffcd05d0;
-    color: #3466AF;
-    height: fit-content
+    background-color: #3466AF;;
+    color: #ffcd05d0;
+    height: fit-content;
 }
 
 #stats-pic-section{
@@ -54,8 +53,8 @@
 }
 
 body{
-    background-image: url('bg.jpg');
+    background-image: url('pikachu.jpg');
     background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-size: cover;
+    background-attachment:fixed;
+    background-size:cover;
 }
