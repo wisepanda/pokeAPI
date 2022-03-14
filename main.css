@@ -4,34 +4,36 @@
     font-size: 60px;
     justify-content: center;
     font-style: italic;
-    color: aliceblue;
+    color: aliceblue
 }
 
 #pokeType{
     display: flex;
     font-size: 40px;
+    color: aliceblue;
     justify-content: center;
-    color: white;
-
 }
 
 #pokedexNo{
     display: flex;
     font-size: 40px;
     justify-content: center;
-    color: white;
+    color: aliceblue;
   
 
 }
 
 #pokemonPic{
-    margin-right: 50px;
+    margin-right: 10px;
+    border: 20px;
+    border-color: aliceblue;
 }
 
 #pokeInfo{
     border-radius: 1rem;
-    /* background-color: rgb(88, 96, 167); */
-    color: white;
+    background-color: #ffcd05d0;
+    color: #3466AF;
+    height: 290px;
 }
 
 #stats-pic-section{
